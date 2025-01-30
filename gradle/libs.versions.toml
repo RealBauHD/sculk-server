@@ -2,7 +2,7 @@
 netty = "4.1.116.Final"
 adventure = "4.17.0"
 log4j = "2.24.3"
-jline = "3.28.0"
+jline = "3.29.0"
 
 [plugins]
 shadow = { id = "com.github.johnrengelman.shadow", version = "8.1.1" }
