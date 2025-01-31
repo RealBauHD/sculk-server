@@ -31,7 +31,7 @@ jansi = { group = "org.jline", name = "jansi", version.ref = "jline" }
 
 slf4j = "org.slf4j:slf4j-api:2.0.16"
 fastutil = "it.unimi.dsi:fastutil-core:8.5.15"
-gson = "com.google.code.gson:gson:2.11.0"
+gson = "com.google.code.gson:gson:2.12.1"
 guava = "com.google.guava:guava:33.4.0-jre"
 brigadier = "com.mojang:brigadier:1.0.18"
 velocity-native = "com.velocitypowered:velocity-native:3.3.0-SNAPSHOT"
