@@ -35,7 +35,7 @@ gson = "com.google.code.gson:gson:2.11.0"
 guava = "com.google.guava:guava:33.4.0-jre"
 brigadier = "com.mojang:brigadier:1.0.18"
 velocity-native = "com.velocitypowered:velocity-native:3.3.0-SNAPSHOT"
-zstd = "com.github.luben:zstd-jni:1.5.6-8"
+zstd = "com.github.luben:zstd-jni:1.5.6-10"
 
 junit = "org.junit.jupiter:junit-jupiter:5.11.4"
 
